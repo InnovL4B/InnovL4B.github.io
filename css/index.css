@@ -1254,22 +1254,7 @@ form button:hover {
   font-weight: 400;
   opacity: 1;
 }
-.color-changer {
-  height: auto;
-  width: auto;
-  display: flex;
-  flex-direction: row;
-  position: fixed;
-  right: -150px;
-  top: 40%;
-  z-index: 4;
-  color: black;
-  transition: all 0.4s ease;
-}
-.color-changer-active {
-  right: 0px;
-  transition: all 0.4s ease;
-}
+
 .color-panel {
   height: 45px;
   cursor: pointer;
